@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XosOG1yJ1cNCBjTffpGlguucYdn7RPm7DSpDE7hC0LyJtL7DGX0Kz1iZns1q5Q3mL4Tg9qFaFwfu9GFa5malHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shashank-PC\\Source\\Repos\\MovieAPI\\MovieAPI\\MovieAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashank-PC\\.nuget\\packages\\csvhelper\\12.2.1\\csvhelper.12.2.1.nupkg.sha512",
+    "C:\\Users\\Shashank-PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Shashank-PC\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
